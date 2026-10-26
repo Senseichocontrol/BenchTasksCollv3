@@ -1,0 +1,8 @@
+{
+  "task_name": "price-tracker",
+  "implementor": "fan-dev",
+  "needed_mcp_servers": [],
+  "needed_local_tools": [
+    "claim_done"
+  ]
+}
