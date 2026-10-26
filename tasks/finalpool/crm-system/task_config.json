@@ -1,0 +1,8 @@
+{
+  "task_name": "crm-system",
+  "implementor": "lueyang-dev",
+  "needed_mcp_servers": [],
+  "needed_local_tools": [
+    "claim_done"
+  ]
+}

@@ -1,0 +1,1 @@
+# Preprocess for coupon-manager

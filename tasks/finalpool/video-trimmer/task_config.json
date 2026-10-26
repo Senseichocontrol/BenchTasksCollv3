@@ -1,0 +1,8 @@
+{
+  "task_name": "video-trimmer",
+  "implementor": "haoze",
+  "needed_mcp_servers": [],
+  "needed_local_tools": [
+    "claim_done"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "task_name": "invoice-generator",
+  "implementor": "yuzhen-dev",
+  "needed_mcp_servers": [],
+  "needed_local_tools": [
+    "claim_done"
+  ]
+}

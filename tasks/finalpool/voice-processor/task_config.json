@@ -1,0 +1,8 @@
+{
+  "task_name": "voice-processor",
+  "implementor": "lv",
+  "needed_mcp_servers": [],
+  "needed_local_tools": [
+    "claim_done"
+  ]
+}

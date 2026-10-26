@@ -1,0 +1,8 @@
+{
+  "task_name": "blog-engine",
+  "implementor": "gyy",
+  "needed_mcp_servers": [],
+  "needed_local_tools": [
+    "claim_done"
+  ]
+}

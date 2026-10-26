@@ -1,0 +1,8 @@
+{
+  "task_name": "load-balancer",
+  "implementor": "zhaochen",
+  "needed_mcp_servers": [],
+  "needed_local_tools": [
+    "claim_done"
+  ]
+}
