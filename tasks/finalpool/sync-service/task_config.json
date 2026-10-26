@@ -1,0 +1,8 @@
+{
+  "task_name": "sync-service",
+  "implementor": "yuxuan-dev",
+  "needed_mcp_servers": [],
+  "needed_local_tools": [
+    "claim_done"
+  ]
+}
