@@ -1,0 +1,8 @@
+{
+  "task_name": "security-scanner",
+  "implementor": "xiaochen_dev",
+  "needed_mcp_servers": [],
+  "needed_local_tools": [
+    "claim_done"
+  ]
+}

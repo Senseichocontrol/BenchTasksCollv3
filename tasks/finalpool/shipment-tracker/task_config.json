@@ -1,0 +1,8 @@
+{
+  "task_name": "shipment-tracker",
+  "implementor": "junteng_dev",
+  "needed_mcp_servers": [],
+  "needed_local_tools": [
+    "claim_done"
+  ]
+}

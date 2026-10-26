@@ -1,0 +1,8 @@
+{
+  "task_name": "file-manager",
+  "implementor": "ruige",
+  "needed_mcp_servers": [],
+  "needed_local_tools": [
+    "claim_done"
+  ]
+}
