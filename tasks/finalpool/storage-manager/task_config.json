@@ -1,0 +1,8 @@
+{
+  "task_name": "storage-manager",
+  "implementor": "zhaochen",
+  "needed_mcp_servers": [],
+  "needed_local_tools": [
+    "claim_done"
+  ]
+}
